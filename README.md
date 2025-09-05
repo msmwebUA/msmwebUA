@@ -1,4 +1,4 @@
-## Sergii Mishchaniuk 🙋‍♂️
+## 🙋‍♂️ Sergii Mishchaniuk
 ### I’m currently learning information and communication technology at LAB University of Applied Sciences (TLTITVT25SV) 😎
 
 <!--
