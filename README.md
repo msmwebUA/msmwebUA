@@ -1,4 +1,5 @@
-## Hi there 👋
+## Sergii Mishchaniuk 👋
+*** 🌱 I’m currently learning information and communication technology at the LAB University of Applied Sciences (TLTITVT25SV) ***
 
 <!--
 **msmwebUA/msmwebUA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
